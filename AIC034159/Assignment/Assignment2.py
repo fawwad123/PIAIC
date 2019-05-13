@@ -1,3 +1,5 @@
+# Write a program to calculate the percentage of a student and generate a report card of the student
+
 # This is the code to calculate the percentage of the student
 # Total marks of the total subjects
 totalMarks = 550
